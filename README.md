@@ -8,7 +8,7 @@
 4. generate an image with the following description: ผู้คนยืนพูดคุยกันอย่างมีความสุขหน้าร้าน CJ More super convenient store <br><br>
 5. generate an image with the following description: A vibrant, full-body photograph of two cheerful young Asian men smiling warmly and posing with open arms in front of a modern supermarket. The man on the left wears a yellow shirt, a bright green puffer vest, and stylish white wide-leg pants. The man on the right sports a casual green short-sleeved shirt and classic blue denim jeans. The background features the storefront of a contemporary building with prominent green and beige branding under a bright, clear blue sky. Shot from a low angle, the image has a dynamic feel, with bright, sunny lighting creating a cheerful, commercial advertising style.<br><br>
 
-<H1>ส่วนที่ 1: Deep Research (การทำวิจัยเชิงลึก)</H1><br><br>
+<H1>ส่วนที่ 1: Deep Research (การทำวิจัยเชิงลึก)</H1><br>
 เป้าหมาย: ค้นหาข้อมูล วิเคราะห์สาเหตุ และทำความเข้าใจภาพรวมของสถานการณ์<br><br>
 
 ** ค้นคว้าหาคู่แข่งทางธุรกิจของบริษัท C.J. Express Group Co.,Ltd. ในประเทศไทย พร้อมทั้งทำการวิเคราะห์ SWOT Analysis ของแต่ละบริษัทเทียบกับ C.J. Express Group Co.,Ltd. <br><br>
@@ -29,7 +29,7 @@
 14. วิเคราะห์ยอดขายของสินค้าเฮาส์แบรนด์ (House Brand) ของ CJ Express Group Co., Ltd. และเปรียบเทียบกับสินค้าแบรนด์ระดับประเทศในหมวดหมู่เดียวกัน<br>
 15. ตรวจสอบความสัมพันธ์ระหว่างที่ตั้งของสาขาที่ใกล้กับศูนย์กลางการคมนาคมของ CJ Express Group Co., Ltd. (เช่น ป้ายรถเมล์, สถานีรถไฟฟ้า) กับปริมาณยอดขายของสาขานั้น<br>
 
-<h1>ส่วนที่ 2: Idea Generation (การสร้างสรรค์แนวคิด)</h1><br><br>
+<h1>ส่วนที่ 2: Idea Generation (การสร้างสรรค์แนวคิด)</h1><br>
 เป้าหมาย: ระดมสมอง หาทางออก และสร้างกลยุทธ์ใหม่ๆ ที่นำไปปฏิบัติได้จริง<br><br>
 
 ** สร้างสรรค์ไอเดียการเป็นพันธมิตรทางธุรกิจของ CJ Express Group Co., Ltd. กับร้านค้าท้องถิ่น (เช่น ร้านกาแฟ, ร้านซักรีด) เพื่อสร้างศูนย์กลางของชุมชนและเพิ่มทราฟฟิกให้กันและกัน<br>
