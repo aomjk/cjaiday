@@ -3,13 +3,16 @@
 
 <h1>P'Noom's prompt</h1><br>
 1. ค้นหาข้อมูลล่าสุดเกี่ยวกับบริษัท C.J. Express Group Co.,Ltd.<br><br>
-2. I have a new product which can search across 100+ data sources and help me analyze blended data and create agents on this blended data. Generate an image for its website. <br><br>
-3. ผู้คนยืนพูดคุยกันอย่างมีความสุขหน้าร้าน CJ More super convenient store<br><br>
+2. What specific areas drive revenue growth<br><br>
+3. แปลเป็นภาษาไทยให้ที<br><br>
+4. generate an image with the following description: ผู้คนยืนพูดคุยกันอย่างมีความสุขหน้าร้าน CJ More super convenient store <br><br>
+5. generate an image with the following description: A vibrant, full-body photograph of two cheerful young Asian men smiling warmly and posing with open arms in front of a modern supermarket. The man on the left wears a yellow shirt, a bright green puffer vest, and stylish white wide-leg pants. The man on the right sports a casual green short-sleeved shirt and classic blue denim jeans. The background features the storefront of a contemporary building with prominent green and beige branding under a bright, clear blue sky. Shot from a low angle, the image has a dynamic feel, with bright, sunny lighting creating a cheerful, commercial advertising style.<br><br>
 
 <H1>ส่วนที่ 1: Deep Research (การทำวิจัยเชิงลึก)</H1><br><br>
 เป้าหมาย: ค้นหาข้อมูล วิเคราะห์สาเหตุ และทำความเข้าใจภาพรวมของสถานการณ์<br><br>
 
-** ค้นคว้าหาคู่แข่งทางธุรกิจของบริษัท C.J. Express Group Co.,Ltd. ในประเทศไทย พร้อมทั้งทำการวิเคราะห์ SWOT Analysis ของแต่ละบริษัทเทียบกับ C.J. Express Group Co.,Ltd. <br>
+** ค้นคว้าหาคู่แข่งทางธุรกิจของบริษัท C.J. Express Group Co.,Ltd. ในประเทศไทย พร้อมทั้งทำการวิเคราะห์ SWOT Analysis ของแต่ละบริษัทเทียบกับ C.J. Express Group Co.,Ltd. <br><br>
+** สร้างสรรค์ไอเดียการเป็นพันธมิตรทางธุรกิจของ CJ Express Group Co., Ltd. กับร้านค้าท้องถิ่น (เช่น ร้านกาแฟ, ร้านซักรีด) เพื่อสร้างศูนย์กลางของชุมชนและเพิ่มทราฟฟิกให้กันและกัน <br><br>
 1. วิเคราะห์ปัจจัยหลักที่ส่งผลต่อความแตกต่างของยอดขายระหว่างสาขา CJ Express Group Co., Ltd. ที่มีผลประกอบการดีที่สุด 10% และสาขาที่แย่ที่สุด 10% ในช่วงไตรมาสที่ผ่านมา <br>
 2. ค้นคว้าและเปรียบเทียบกลยุทธ์การตลาดและการจัดโปรโมชันของคู่แข่งสำคัญในรัศมี 1 กิโลเมตร รอบสาขาที่มีผลประกอบการต่ำของ CJ Express Group Co., Ltd.<br>
 3. ตรวจสอบความสัมพันธ์ระหว่างข้อมูลประชากรในแต่ละพื้นที่ (เช่น กลุ่มอายุ, ระดับรายได้) กับประเภทสินค้าขายดีของสาขา CJ Express Group Co., Ltd. ที่ตั้งอยู่ในพื้นที่นั้นๆ<br>
@@ -23,7 +26,6 @@
 11. ประเมินความสำเร็จของแคมเปญส่งเสริมการขายที่ผ่านมา โปรโมชันประเภทใด (ส่วนลด, ซื้อ 1 แถม 1, สะสมแต้ม) ที่ได้ผลดีที่สุดสำหรับสินค้าหมวดหมู่ใดของ CJ Express Group Co., Ltd.<br>
 12. วิเคราะห์ความรู้สึก (Sentiment Analysis) จากรีวิวออนไลน์และคอมเมนต์ในโซเชียลมีเดียที่เกี่ยวข้องกับสาขาต่างๆ ของ CJ Express Group Co., Ltd. เพื่อระบุข้อร้องเรียนหรือคำชมที่พบบ่อย <br>
 13. ค้นคว้าอัตราการใช้ช่องทางการชำระเงินดิจิทัลเทียบกับเงินสดในแต่ละสาขาและกลุ่มลูกค้าของ CJ Express Group Co., Ltd. และดูความสัมพันธ์กับพฤติกรรมการใช้จ่าย<br>
-
 14. วิเคราะห์ยอดขายของสินค้าเฮาส์แบรนด์ (House Brand) ของ CJ Express Group Co., Ltd. และเปรียบเทียบกับสินค้าแบรนด์ระดับประเทศในหมวดหมู่เดียวกัน<br>
 15. ตรวจสอบความสัมพันธ์ระหว่างที่ตั้งของสาขาที่ใกล้กับศูนย์กลางการคมนาคมของ CJ Express Group Co., Ltd. (เช่น ป้ายรถเมล์, สถานีรถไฟฟ้า) กับปริมาณยอดขายของสาขานั้น<br>
 
@@ -45,3 +47,7 @@
 12. เสนอแนวคิดการจัดอีเวนต์หรือเวิร์กช็อปภายในร้านของ CJ Express Group Co., Ltd. (เช่น สาธิตการทำอาหาร, ให้ความรู้ด้านสุขภาพ) เพื่อสร้างชุมชนและดึงดูดลูกค้า<br>
 13. สร้างสรรค์ไอเดียเกี่ยวกับโครงการริเริ่มด้านความยั่งยืนและสิ่งแวดล้อมที่ CJ Express Group Co., Ltd. สามารถนำไปใช้ในระดับสาขาได้ และวิธีการสื่อสารการตลาดไปยังลูกค้า<br>
 14. คิดค้นโปรแกรมแนะนำเพื่อน (Referral Program) ที่ให้รางวัลแก่ลูกค้าปัจจุบันเมื่อชวนเพื่อนมาเป็นลูกค้าใหม่กับ CJ Express Group Co., Ltd.<br>
+
+<h1>Data Insight</h1><br><br>
+1. provide CEO insight from this file<br>
+
