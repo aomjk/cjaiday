@@ -3,6 +3,7 @@
 
 <h1>P'Noom's prompt</h1><br>
 1. ค้นหาข้อมูลล่าสุดเกี่ยวกับบริษัท C.J. Express Group Co.,Ltd.<br><br>
+2. I have a new product which can search across 100+ data sources and help me analyze blended data and create agents on this blended data. Generate an image for its website. <br><br>
 
 <H1>ส่วนที่ 1: Deep Research (การทำวิจัยเชิงลึก)</H1><br><br>
 เป้าหมาย: ค้นหาข้อมูล วิเคราะห์สาเหตุ และทำความเข้าใจภาพรวมของสถานการณ์<br><br>
