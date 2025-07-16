@@ -1,3 +1,6 @@
+<h1>https://vertexaisearch.cloud.google.com/home/cid/7286c13e-bc26-4dd8-a058-82f2c75c1afd</h1>
+
+
 <H1>ส่วนที่ 1: Deep Research (การทำวิจัยเชิงลึก)</H1><br><br>
 เป้าหมาย: ค้นหาข้อมูล วิเคราะห์สาเหตุ และทำความเข้าใจภาพรวมของสถานการณ์<br><br>
 
