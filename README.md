@@ -2,7 +2,7 @@
 <h1>https://vertexaisearch.cloud.google.com/home/cid/7286c13e-bc26-4dd8-a058-82f2c75c1afd</h1>
 
 <h1>P'Noom's prompt</h1><br>
-1. xxx<br><br>
+1. ค้นหาข้อมูลล่าสุดเกี่ยวกับบริษัท C.J. Express Group Co.,Ltd.<br><br>
 
 <H1>ส่วนที่ 1: Deep Research (การทำวิจัยเชิงลึก)</H1><br><br>
 เป้าหมาย: ค้นหาข้อมูล วิเคราะห์สาเหตุ และทำความเข้าใจภาพรวมของสถานการณ์<br><br>
