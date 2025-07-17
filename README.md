@@ -1,7 +1,7 @@
 <h1>Agent Space's URL</h1>
 <h1>https://vertexaisearch.cloud.google.com/home/cid/7286c13e-bc26-4dd8-a058-82f2c75c1afd</h1>
 
-<h1>Question/Prompt's List</h1><br>
+<h1>Questions/Prompts's List</h1><br>
 1. ค้นหาข้อมูลล่าสุดเกี่ยวกับบริษัท C.J. Express Group Co.,Ltd.<br><br>
 2. What specific areas drive revenue growth<br><br>
 3. แปลเป็นภาษาไทยให้ที<br><br>
