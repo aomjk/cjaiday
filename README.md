@@ -8,7 +8,7 @@
 4. generate an image with the following description: ผู้คนยืนพูดคุยกันอย่างมีความสุขหน้าร้าน CJ More super convenient store <br><br>
 5. generate an image with the following description: A vibrant, full-body photograph of two cheerful young Asian men smiling warmly and posing with open arms in front of a modern supermarket. The man on the left wears a yellow shirt, a bright green puffer vest, and stylish white wide-leg pants. The man on the right sports a casual green short-sleeved shirt and classic blue denim jeans. The background features the storefront of a contemporary building with prominent green and beige branding under a bright, clear blue sky. Shot from a low angle, the image has a dynamic feel, with bright, sunny lighting creating a cheerful, commercial advertising style.<br><br>
 
-<h1>Data Insight</h1><br><br>
+<h1>Data Insight</h1><br>
 1. provide CEO insight from this file<br>
 
 <H1>ส่วนที่ 1: Deep Research (การทำวิจัยเชิงลึก)</H1><br>
